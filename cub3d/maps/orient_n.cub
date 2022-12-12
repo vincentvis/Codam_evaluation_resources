@@ -1,0 +1,25 @@
+R        960     540
+
+NO ./game_sources/textures/bitmap-N.png
+EA ./game_sources/textures/bitmap-E.png
+SO ./game_sources/textures/bitmap-S.png
+WE ./game_sources/textures/bitmap-W.png
+
+S  ./game_sources/textures/sprite_barrel.png
+F  125,100,40
+
+C  25,130,210
+
+1111111111111
+1000000000001
+1000100000101
+1001010000001
+1010000000001
+1000000000001
+1000000000001
+1000000000001
+1000000000001
+1000000000001
+1000000000001
+100000N000001
+1111111111111
